@@ -131,25 +131,6 @@ c_03,EMS_DISPATCH,3,GPS_DATA_LINK,0
 
 ---
 
-### 5. Presentation & Video Assets
-
-#### **PowerPoint Slide Outline**
-1.  **Title Slide:** Aura Health - The Agentic Guardian.
-2.  **The Shift:** From "Tracking" (Passive) to "Agency" (Active).
-3.  **Architecture:** The Swarm (Analyst, Coach, Guardian).
-4.  **Tech Stack:** Gemini 3.0 Pro (Reasoning) + Live API (Multimodal).
-5.  **AI for Good:** The SOS Protocol & Fall Detection Demo.
-6.  **Future:** Wearable Integration & AP2 Payments.
-
-#### **YouTube Video Script**
-*   **0:00 - Intro:** "Health apps today are passive. They watch, but don't help. I built Aura Health to change that."
-*   **0:30 - The Tech:** "Powered by Gemini 3.0 Pro and the Live API, Aura has eyes, ears, and a brain."
-*   **1:00 - Demo (Coach):** "Watch as the Live Agent corrects my form in real-time using the camera."
-*   **1:45 - Demo (Safety):** "Here is the core innovation: The Guardian Agent. If I simulate a fall, it grounds my location using Google Maps and initiates a tiered SOS call."
-*   **2:30 - Outro:** "Aura isn't just an app; it's a lifeline. Built for the Google AI Agents Capstone."
-
----
-
 ## 🛠️ Installation & Setup
 
 1.  **Clone:** `git clone https://github.com/bhaagavatham/AuraHealth`
